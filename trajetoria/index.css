@@ -1,0 +1,26 @@
+body { 
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0OIUW_3mtEf_evko29RECoh3KZdEMs57UtA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: black;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.foto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h1,p,ul{
+    text-align: center;
+}
+
+.nome{
+    background-image: url(https://img.freepik.com/vetores-premium/modelo-de-plano-de-fundo-colorido-para-cartao-postal-papel-de-parede-texteis-design-de-vestuario-de-fundo-vector-sem-costura-com-ondas-abstratas-ilustracao-vetorial-nas-cores-azuis-e-turquesas_278395-560.jpg?w=2000);
+}
